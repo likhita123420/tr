@@ -2,3 +2,5 @@ hello i am Likhita
 i'm from innomatics research labs
 im pursuing data science
 iam currently in ml module
+currently i'm doing an internship related to DataScience + Gen AI
+and im also applying for analyst roles
